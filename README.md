@@ -30,8 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="neo4j logo" />
-  <img width="12" />
-  <img src="https://github.com/langchain-ai/langchain/blob/master/docs/static/img/logo-dark.svg" height="40" alt="langchain logo" />
 </div>
 
 ###
