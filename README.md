@@ -27,7 +27,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="readme/h-radio-dark.svg"><img alt="On repeat" src="readme/h-radio-light.svg"></picture>
 
-<a href="https://si-dan.com/music"><picture><source media="(prefers-color-scheme: dark)" srcset="https://si-dan.com/api/readme/on-repeat.svg?theme=dark"><img alt="What Dan has on repeat on Spotify" src="https://si-dan.com/api/readme/on-repeat.svg?theme=light"></picture></a>
+<a href="https://si-dan.com/about"><picture><source media="(prefers-color-scheme: dark)" srcset="https://si-dan.com/api/readme/on-repeat.svg?theme=dark"><img alt="What Dan has on repeat on Spotify" src="https://si-dan.com/api/readme/on-repeat.svg?theme=light"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="readme/h-activity-dark.svg"><img alt="Town activity" src="readme/h-activity-light.svg"></picture>
 
