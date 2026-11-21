@@ -40,6 +40,7 @@
 <p align="center">
 <a href="https://github.com/dannguyen111"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/link-github-dark.svg"><img alt="GitHub" src="readme/link-github-light.svg"></picture></a>
 <a href="https://www.linkedin.com/in/dannguyen111/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/link-linkedin-dark.svg"><img alt="LinkedIn" src="readme/link-linkedin-light.svg"></picture></a>
+<a href="https://orcid.org/0009-0001-0482-140X"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/link-orcid-dark.svg"><img alt="ORCID" src="readme/link-orcid-light.svg"></picture></a>
 <a href="mailto:sidan.nguyen@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/link-email-dark.svg"><img alt="Email" src="readme/link-email-light.svg"></picture></a>
 <a href="https://www.depop.com/dnngn/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/link-depop-dark.svg"><img alt="Depop" src="readme/link-depop-light.svg"></picture></a>
 </p>
